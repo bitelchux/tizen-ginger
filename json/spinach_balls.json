@@ -61,9 +61,14 @@
 			"timerDoneText": "Spinach mixture chilled"
 		},
 		{
+			"text": "Preheat oven to 350 degrees",
+			"callToAction": "smartThing",
+			"buttonText": "Preheat Oven"
+		},
+		{
 			"text": "Form mixture into small balls on ungreased baking sheet",
 			"callToAction": "showMeHow",
-			"gifAssetFilename": "spinach_balls_step13_smh.gif"
+			"gifAssetFilename": "spinach_balls_step14_smh.gif"
 		},
 		{
 			"text": "Bake at 350 degrees for 20 minutes, until golden brown on top",
