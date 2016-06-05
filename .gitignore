@@ -1,0 +1,15 @@
+# Build files
+.project
+.rds_delta
+.sdk_delta.info
+.settings/
+.sign/
+.tproject
+*.wgt
+
+# Borrowed files, not under apache license
+icon.png
+jquery/
+js/tau.min.js
+css/tau.min.css
+css/listView.css
