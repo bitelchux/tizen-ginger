@@ -23,6 +23,10 @@ function Step(filename, text, action) {
   if (callToAction) {
     callToActionType = callToAction.type;
   }
+  var buttonText = undefined;
+  if (callToAction) {
+    buttonText = callToAction.buttonText;
+  }
   var gifAssetFilename = undefined;
   if (callToAction) {
     gifAssetFilename = callToAction.gifAssetFilename;
@@ -66,6 +70,10 @@ function Step(filename, text, action) {
     return callToAction != undefined;
   };
 
+  this.getButtonText = function() {
+    return buttonText;
+  }
+
   this.getGifAssetFilename = function() {
     return gifAssetFilename;
   }
@@ -99,7 +107,7 @@ function Step(filename, text, action) {
       } else if (callToAction.type == "start") {
         return "Get Cookin'";
       } else if (callToAction.type == "smartThing") {
-        return "Toggle Smart Appliance";
+        return buttonText;
       }
     }
     return "";

@@ -47,6 +47,7 @@ function Recipe(jsonFilename, callback) {
         if (stepData.callToAction) {
           callToAction = {
             'type': stepData.callToAction,
+            'buttonText': stepData.buttonText,
             'gifAssetFilename': stepData.gifAssetFilename,
             'duration': stepData.duration,
             'timerDoneText': stepData.timerDoneText
