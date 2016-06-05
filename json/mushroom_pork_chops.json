@@ -32,12 +32,12 @@
 		{
 			"text": "Chop and dice onions",
 			"callToAction": "showMeHow",
-			"numFrames": 27
+			"gifAssetFilename": "mushroom_pork_chops_step1_smh.gif"
 		},
 		{
 			"text": "Thinly slice mushrooms",
 			"callToAction": "showMeHow",
-			"numFrames": 26
+			"gifAssetFilename": "mushroom_pork_chops_step2_smh.gif"
 		},
 		{
 			"text": "Season pork chops with salt, pepper, and garlic salt"
