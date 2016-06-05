@@ -15,4 +15,11 @@ Contains code for the Samsung Gear S2 Watch App, Ginger, which provides step-by-
 <img src="http://s33.postimg.org/hdwpz7lmn/Screen_Shot_2016_06_04_at_7_05_54_PM.png" width="400" height="400" />
 
 # Setup
+There are some files not included here that need to be copied into the project for styling to fully work. They have been excluded due to licensing issues, but you can find them as follows:
 
+1. ``js/tau.min.js``, ``css/tau.min.css``, and ``css/listView.css``
+ * These are included in the TAU (Tizen Advanced UI) framework and can be obtained by importing the sample web project TAUUIComponents from the Tizen IDE and finding them within the default css and js folders.
+2. ``jquery/jquery-1.10.2.min.js``
+ * Can be downloaded <a href="https://code.jquery.com/jquery/">here</a>.
+3. ``jquery/jquery.mobile.custom.min.js``
+ * Can be created <a href="http://jquerymobile.com/download-builder/">here</a> by adding "Touch" under the "Events" category.
