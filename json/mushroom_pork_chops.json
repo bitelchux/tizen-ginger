@@ -1,0 +1,70 @@
+{
+	"title": "Mushroom Pork Chops",
+	"id": "mushroom_pork_chops",
+	"prepTime": "00:40:00",
+	"difficulty": "Easy",
+	"servings": 4,
+	"calories": 210,
+	"hashtags": [
+		"pork",
+		"grilled",
+		"mushroom"
+	],
+	"recipeURL": "http://allrecipes.com/recipe/14746/mushroom-pork-chops/",
+	"imagesURLs": [
+		"https://search.creativecommons.org/"
+	],
+	"ingredients": [
+		"4 pork chops",
+		"Salt & pepper",
+		"Garlic salt",
+		"Salt and pepper",
+		"1 onion, chopped",
+		"1/2 fresh mushrooms, sliced",
+		"1 (10.75 ounce) can condensed cream of mushroom soup"
+	],
+	"tools": [
+		"Stove",
+		"Larget skillet",
+		"Cutting knife"
+	],
+	"steps": [
+		{
+			"text": "Chop and dice onions",
+			"callToAction": "showMeHow",
+			"numFrames": 27
+		},
+		{
+			"text": "Thinly slice mushrooms",
+			"callToAction": "showMeHow",
+			"numFrames": 26
+		},
+		{
+			"text": "Season pork chops with salt, pepper, and garlic salt"
+		},
+		{
+			"text": "In large skillet, brown the chops over medium-high heat"
+		},
+		{
+			"text": "Add the onion and mushrooms"
+		},
+		{
+			"text": "Sauté for one minute",
+			"callToAction": "timer",
+			"duration": "00:01:00",
+			"timerDoneText": "Sautéing finished "
+		},
+		{
+			"text": "Pour cream of mushroom soup over chops"
+		},
+		{
+			"text": "Cover skillet, and reduce temperature to medium-low"
+		},
+		{
+			"text": "Simmer until chops are cooked through",
+			"callToAction": "timer",
+			"duration": "00:25:00",
+			"timerDoneText": "Chops cooked"
+		}
+	]
+}

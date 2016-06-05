@@ -1,0 +1,80 @@
+{
+	"title": "Grilled Chicken Tikka",
+	"id": "grilled_chicken_tikka",
+	"ingredients": [
+		"2 chicken breasts",
+		"1 teaspoon ginger",
+		"1 clove garlic",
+		"1 teaspoon chilli powder",
+		"1.5 teaspoons trumeric powder",
+		"1 teaspoon salt",
+		"150 mL yogurt",
+		"4 tablespoons lemon juice",
+		"1 tablespoon coriander"
+	],
+	"tools": [
+		"Medium-Large bowl"
+	],
+	"steps": [
+		{ 
+			"text": "Cut 2 chicken breasts into pieces",
+			"callToAction": "showMeHow",
+			"gifAssetFilename": "grilled_chicken_tikka_step1_smh.gif"
+		},
+		{ 
+			"text": "Finely chop 1 tsp. Ginger",
+			"callToAction": "showMeHow",
+			"gifAssetFilename": "grilled_chicken_tikka_step2_smh.gif"
+		},
+		{ 
+			"text": "Finely chop 1 clove garlic",
+			"callToAction": "showMeHow",
+			"gifAssetFilename": "grilled_chicken_tikka_step3_smh.gif"
+		},
+		{ 
+			"text": "In medium-sized bowl, place chicken pieces"
+		},
+		{ 
+			"text": "Add chopped ginger"
+		},
+		{ 
+			"text": "Add chopped garlic"
+		},
+		{ 
+			"text": "Add 1 tsp. Chili powder"
+		},
+		{ 
+			"text": "Add 1.5 tsp. Ground turmeric root "
+		},
+		{ 
+			"text": "Add 1 tsp. Salt and mix together"
+		},
+		{ 
+			"text": "Stir in 150mL of yogurt"
+		},
+		{ 
+			"text": "Stir in 4 tbsp. Lemon juice"
+		},
+		{ 
+			"text": "Stir in 1 tbsp. Coriander"
+		},
+		{ 
+			"text": "Leave to marinate for 2 hours",
+			"callToAction": "timer",
+			"duration": "02:00:00",
+			"timerDoneText": "Ready to grill"
+		},
+		{ 
+			"text": "Preheat grill"
+		},
+		{ 
+			"text": "Grill the chicken for 15-20 minutes (turn often)",
+			"callToAction": "timer",
+			"duration": "00:15:00",
+			"timerDoneText": "Check if chicken is ready"
+		},
+		{ 
+			"text": "Serve on rice or salad"
+		}
+	]
+}

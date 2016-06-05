@@ -1,0 +1,75 @@
+{
+	"title": "Spinach Balls",
+	"id": "spinach_balls",
+	"ingredients": [
+		"2 (10 oz.) boxes frozen chopped spinach",
+		"2 cups Pepperidge Farm stuffing mix",
+		"4 eggs",
+		"1 large onion",
+		"1 stick butter",
+		"1 stick margarine",
+		"1/2 tsp. pepper",
+		"1/2 tsp. garlic salt",
+		"1/2 cup grated parmesan cheese"
+	],
+	"tools": [
+		"Large bowl",
+		"2 small bowls",
+		"Mixing spoon",
+		"Baking sheets"
+	],
+	"steps": [
+		{
+			"text": "Thaw 2 boxes frozen spinach in large bowl"
+		},
+		{
+			"text": "Drain and dry spinach well, return to large bowl"
+		},
+		{
+			"text": "Mince 1 large onion, add to spinach",
+			"callToAction": "showMeHow",
+			"gifAssetFilename": "spinach_balls_step3_smh.gif"
+		},
+		{
+			"text": "Melt 1 stick butter and 1 stick margarine in small bowl in microwave"
+		},
+		{
+			"text": "Add melted butter and margarine to spinach"
+		},
+		{
+			"text": "Crack 4 eggs in small bowl and beat until mixed"
+		},
+		{
+			"text": "Add eggs to spinach"
+		},
+		{
+			"text": "Add 2 cups Pepperidge Farm stuffing mix to spinach"
+		},
+		{
+			"text": "Add 1/2 tsp. pepper and 1/2 tsp. garlic salt to spinach"
+		},
+		{
+			"text": "Add 1/2 cup grated parmesan cheese to spinach"
+		},
+		{
+			"text": "Mix together all ingredients well"
+		},
+		{
+			"text": "Chill overnight or until firm",
+			"callToAction": "timer",
+			"duration": "02:00:00",
+			"timerDoneText": "Spinach mixture chilled"
+		},
+		{
+			"text": "Form mixture into small balls on ungreased baking sheet",
+			"callToAction": "showMeHow",
+			"gifAssetFilename": "spinach_balls_step13_smh.gif"
+		},
+		{
+			"text": "Bake at 350 degrees for 20 minutes, until golden brown on top",
+			"callToAction": "timer",
+			"duration": "00:20:00",
+			"timerDoneText": "Spinach balls done"
+		}
+	]
+}
